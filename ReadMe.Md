@@ -53,7 +53,9 @@ The dataset (`weatherforecasting.csv`) is used for training and evaluating the m
    - Displaying a portion of the Decision Tree.
 
 9. **Visualization**
- ![All model Image](images/Metrics.png)
+   - Below are some imgaes
+   
+  ![All model Image](images/Metrics.png)
   ![All model Image](images/LD.png)
 
 ## Usage
