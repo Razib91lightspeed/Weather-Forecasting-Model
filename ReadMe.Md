@@ -1,6 +1,7 @@
 # Weather Forecasting Model
 
 In this project, a comprehensive dataset of weather conditions spanning over a decade is utilized. This dataset encompasses diverse metrics such as maximum and minimum temperatures, cloud cover, humidity, UV index, moon illumination, sunrise and sunset timings, and wind speeds, among others. With hourly granularity, each record provides a detailed snapshot of the prevailing atmospheric conditions. Given the structure and depth of this dataset, the primary objective is to predict the temperature ("tempC") based on the other environmental attributes.
+
 To achieve this goal, three distinct machine learning algorithms: Linear Regression, Decision Tree, and Random Forest are implemented and analyzed. Each of these algorithms has its unique strengths and methodologies to model the relationship between the provided features and the target variable (temperature). By evaluating their performances, the aim is to deduce which method offers the most accurate temperature predictions for this dataset.
 
 ## Dataset
@@ -53,8 +54,8 @@ The dataset (`weatherforecasting.csv`) is used for training and evaluating the m
    - Displaying a portion of the Decision Tree.
 
 9. **Visualization**
-   - Below are some imgaes
-   
+   - Below are some images
+
   ![All model Image](images/Metrics.png)
   ![All model Image](images/LD.png)
 
